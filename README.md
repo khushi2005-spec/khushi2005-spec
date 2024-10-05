@@ -1,4 +1,4 @@
-<img align="center" src="images/1728104506961.jpg" alt="" width="200" style="display: block; margin: 0% auto;">
+<img align="center" src="https://img.freepik.com/premium-photo/computer-laptop-program-code-development_1029469-266352.jpg?w=740" min-width="300px" max-width="300px" width="350" style="display: block; margin: 0% auto;">
  <h1 align="center">Hi 👋, I'm Khushi</h1>
     <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" align="right" min-width="300px" min-width="300px" width="350px" style="display: block; margin: 0% auto;" >
 <h3 align="center">A Dedicated Aspiring Software Engineer focused on creating impactful solutions from India</h3>
