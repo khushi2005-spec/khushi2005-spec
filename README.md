@@ -1,6 +1,6 @@
 <img align="center" src="images/1728104506961.jpg" alt="" width="200" style="display: block; margin: 0% auto;">
  <h1 align="center">Hi 👋, I'm Khushi</h1>
-    <img align="center" src="images/coding laptop.jpg" alt="" width="300" style="display: block; margin: 0% auto;">
+    <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" align="right" min-width="300px" min-width="300px" width="350px" style="display: block; margin: 0% auto;" >
 <h3 align="center">A Dedicated Aspiring Software Engineer focused on creating impactful solutions from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushi2005-spec&label=Profile%20views&color=0e75b6&style=flat" alt="khushi2005-spec" /> </p>
