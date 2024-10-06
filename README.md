@@ -5,7 +5,10 @@
 </h1>
 <img align="center" src="https://img.freepik.com/premium-photo/computer-laptop-program-code-development_1029469-266352.jpg?w=740" min-width="300px" max-width="300px" width="350" style="display: block; margin: 0% auto;"> <img align="center" src="https://img.freepik.com/premium-photo/hands-typing-mechanical-keyboard-with-modern-design_167857-47377.jpg?size=626&ext=jpg&ga=GA1.1.389293675.1728129231&semt=ais_hybrid" min-width="300px" max-width="210px" width="350" style="display: block; margin: 0% auto;"> <img align="center" src="https://t4.ftcdn.net/jpg/07/85/60/27/240_F_785602701_Cr7vGpg11EeIMA6tfToLc9D9bQyOwXKK.jpg" min-width="300px" max-width="200px" width="350" style="display: block; margin: 0% auto;">
  <h1 align="center">Hi 👋, I'm Khushi</h1>
-    <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" align="right" min-width="300px" min-width="300px" width="350px" style="display: block; margin: 0% auto;" >
+ <img src="https://img.freepik.com/free-photo/view-3d-laptop-device-with-screen-keyboard_23-2150714003.jpg?ga=GA1.1.389293675.1728129231&semt=ais_hybrid" align="left" min-width="300px" max-width="300px" width="180" style="display: block; margin: 0% auto" >
+  <img src="https://img.freepik.com/premium-photo/laptop-showing-lines-code-darkthemed-text-editor-with-sleek-professional-programmi_1314467-216029.jpg?ga=GA1.1.389293675.1728129231&semt=ais_hybridd" align="left" min-width="300px" max-width="300px" width="180" style="display: block; margin: 0% auto" >
+ 
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" align="right" min-width="300px" min-width="300px" width="350px" style="display: block; margin: 0% auto;" >
 <h3 align="center">A Dedicated Aspiring Software Engineer focused on creating impactful solutions from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushi2005-spec&label=Profile%20views&color=0e75b6&style=flat" alt="khushi2005-spec" /> </p>
