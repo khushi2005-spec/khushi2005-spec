@@ -7,7 +7,8 @@
  <h1 align="center">Hi 👋, I'm Khushi</h1>
  <img src="https://img.freepik.com/free-photo/view-3d-laptop-device-with-screen-keyboard_23-2150714003.jpg?ga=GA1.1.389293675.1728129231&semt=ais_hybrid" align="left" min-width="300px" max-width="300px" width="180" style="display: block; margin: 0% auto" >
   <img src="https://img.freepik.com/premium-photo/laptop-showing-lines-code-darkthemed-text-editor-with-sleek-professional-programmi_1314467-216029.jpg?ga=GA1.1.389293675.1728129231&semt=ais_hybridd" align="left" min-width="300px" max-width="300px" width="180" style="display: block; margin: 0% auto" >
- 
+
+  
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" align="right" min-width="300px" min-width="300px" width="350px" style="display: block; margin: 0% auto;" >
 <h3 align="center">A Dedicated Aspiring Software Engineer focused on creating impactful solutions from India</h3>
 
